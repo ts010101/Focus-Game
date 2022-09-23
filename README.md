@@ -9,7 +9,7 @@ The board looks like a checkerboard with three squares in each corner removed, h
 
 Any player can start the game. 
 #### Playing the game:
-On a playerâ€™s turn they will make one move. They can either make a single move, a multiple move, or a reserve move.
+On a player's turn they will make one move. They can either make a single move, a multiple move, or a reserve move.
 ###### Single Move
 In a single move the player moves one of their playing pieces which is on a space by itself. This piece can be moved one space vertically or horizontally. The piece may never be moved diagonally. The piece can either be moved to an empty space, or a space with one or more playing pieces on it. If a piece is moved to a space with a stack of pieces on it, the piece that was just moved is placed on the top of the stack. A player can move their playing piece onto a stack containing their own pieces, pieces of other players, or both.
 ###### Multiple Move
